@@ -18,9 +18,10 @@
 }
 
 .content_description{
-  margin-top: 15px;
+  margin: 30px;
 }
 
 .content_description > p{
+  margin-top: 15px;
   color: gray;
 }
